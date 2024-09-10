@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color: #2340e6;
+    border-bottom: 8px solid #0f218a;
+    display: flex;
+    padding: 16px;
+    justify-content: center;
+    color: aliceblue;
+    font-style: italic;
+}
+header button{
+    width: 120px;
+    margin-left: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: aqua;
+    color: black;
+    font-weight: 700;
+    font-size: 16px;
+}
